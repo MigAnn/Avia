@@ -3,8 +3,7 @@ public class Main {
         int cost = 100;
         int amount = 1;
 
-     int bonus = ( cost * amount );
+        int bonus = (cost * amount);
         System.out.println("Вам начисленно : " + bonus + " милей.");
-        }
-
     }
+}
